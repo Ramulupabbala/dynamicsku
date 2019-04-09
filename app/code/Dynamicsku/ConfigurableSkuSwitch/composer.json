@@ -1,6 +1,6 @@
 {
-    "name": "Ramulupabbala/dynamicsku",
-    "description": "Crud module using composer!",
+    "name": "ramulupabbala/dynamicsku",
+    "description": "dynamicsku module using composer!",
     "require": {
     },
     "type": "magento2-module",
@@ -13,10 +13,10 @@
             ]
         ]
     },
-    "authors": [
-        {
-            "name": "Ramu",
-            "role": "Developer"
-        }
-    ]
+    "minimum-stability": "stable",
+     "repositories": [
+         {
+            "type": "vcs",
+            "url": "https://github.com/Ramulupabbala/dynamicsku"
+         }]
 }
