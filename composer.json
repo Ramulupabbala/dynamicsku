@@ -14,11 +14,9 @@
         ]
     },
     "minimum-stability": "stable",
-    "repositories": {
-        {
+     "repositories": [
+         {
             "type": "vcs",
             "url": "https://github.com/Ramulupabbala/dynamicsku"
-        }
-    
-    }
+         }]
 }
