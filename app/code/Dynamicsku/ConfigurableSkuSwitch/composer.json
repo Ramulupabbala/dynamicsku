@@ -1,0 +1,22 @@
+{
+    "name": "ramulupabbala/dynamicsku",
+    "description": "Crud module using composer!",
+    "require": {
+    },
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "extra": {
+        "map": [
+            [
+                "*",
+                "Ramulupabbala/dynamicsku"
+            ]
+        ]
+    },
+    "authors": [
+        {
+            "name": "Ramu",
+            "role": "Developer"
+        }
+    ]
+}
