@@ -3,9 +3,11 @@
     "description": "dynamicsku module using composer",
     "require": {
         "magento/magento-composer-installer": "*",
-        "composer/installers": "~1.0"
+        "composer/installers": "~1.0",
+        "add/attr": "*",
+        "Cate/Attr": "*"
     },
-    "type": "magento2-module",
+    "type": "metapackage",
     "version": "1.0.0",
     "extra": {
         "map": [
@@ -27,3 +29,5 @@
         }
     }
 }
+
+
