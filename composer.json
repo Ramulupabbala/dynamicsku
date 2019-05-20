@@ -5,7 +5,7 @@
         "magento/magento-composer-installer": "*",
         "composer/installers": "~1.0",
         "add/attr": "*",
-        "Cate/Attr": "*"
+        "cate/attr": "*"
     },
     "type": "metapackage",
     "version": "1.0.0",
