@@ -4,8 +4,8 @@
     "require": {
         "magento/magento-composer-installer": "*",
         "composer/installers": "~1.0",
-        "add/attr": "*",
-        "cate/attr": "*"
+        "add/attr": "1.1.0",
+        "cate/attr": "0.0.1"
     },
     "type": "magento2-module",
     "version": "1.0.0",
