@@ -17,12 +17,6 @@
             ]
         ]
     },
-    "authors": [
-        {
-            "name": "Ramu",
-            "role": "Developer"
-        }
-    ],
     "extra": {
         "installer-paths": {
             "app/code/Vendor/Module": ["vendor/module"]
